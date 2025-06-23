@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919482907241",
+    "project_id": "flutter-authentication-5dc9e",
+    "storage_bucket": "flutter-authentication-5dc9e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919482907241:android:cf80570d684373c82e80f8",
+        "android_client_info": {
+          "package_name": "com.recycleledger.recycleledger_truck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Lm7S2iWq2H4pJ19pXJXFA4ABelHPHNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
