@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:google_map/screen/geolocation_widget.dart';
-import 'package:google_map/screen/navigation_tracking.dart';
+import 'package:google_map/navigation/navigation_sample.dart';
 
 void main() {
   runApp(const MyApp());
@@ -33,7 +32,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
       // home: NavigationTracking(),
-      home: GeolocationWidget(),
+      home: MapScreen(),
     );
   }
 }
